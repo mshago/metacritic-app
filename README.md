@@ -1,1 +1,1 @@
-# meteoritic-app
+# metacritic-app
